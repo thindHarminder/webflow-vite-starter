@@ -1,0 +1,10 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+[dev]
+  port = 7007
+
+[build]
+publish = "dist/"

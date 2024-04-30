@@ -11,5 +11,8 @@
   "devDependencies": {
     "netlify-cli": "^17.23.1",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "thind-js": "^0.0.2"
   }
 }
